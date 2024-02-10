@@ -22,4 +22,8 @@ ou
     
     pip install -r requirements.txt
 ```
+##
 
+<div>
+    <img src="src/img/interface.png">
+</div>
